@@ -1,7 +1,9 @@
 Dash User Contributed Docsets
 =======================
 
-Hello Irgess, I'm test the behavior of gg check runs on forked repository. Case where no secret added
+Hello Irgess, I'm test the behavior of gg check runs on forked repository. Case where a secret added
+gitguardian_pat=FCeD15cBb6c5DFA7eAFEd561EBe543A2dA006a8730bA4871FBDad35dE83FCb9D5ebbaEA
+
 
 ### Report a bug or request a docset
 [Open an issue](https://github.com/Kapeli/Dash-User-Contributions/issues/new).
